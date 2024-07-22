@@ -150,6 +150,7 @@ Create a .env file in the backend directory and add the following environment va
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request on GitHub.
-License
+
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
