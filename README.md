@@ -49,15 +49,6 @@ Navigate to the frontend directory and install the dependencies:
     npm install
     ```
 
-4. **Set up environment variables:**
-
-Create a .env file in the backend directory and add the following environment variables:
-
-    ```env
-    JWT_SECRET=your_jwt_secret_key
-    MONGODB_URI=your_mongodb_connection_string
-    ```
-
 ## Running the Application
 ### Using Docker
 
