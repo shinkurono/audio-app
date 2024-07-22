@@ -1,0 +1,25 @@
+/* src/components/Upload.css */
+
+.upload {
+    margin-top: 20px;
+  }
+  
+  .upload h2 {
+    margin-bottom: 20px;
+  }
+  
+  .upload input[type="text"] {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .upload button {
+    width: 100%;
+    padding: 12px;
+    background-color: #28a745;
+  }
+  
+  .upload button:hover {
+    background-color: #218838;
+  }
+  

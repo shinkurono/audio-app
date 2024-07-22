@@ -1,0 +1,37 @@
+/* src/components/AudioList.css */
+
+.audio-list {
+  margin-top: 20px;
+}
+
+.audio-list table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.audio-list tr {
+  color: black;
+}
+
+.audio-list th, .audio-list td {
+  padding: 10px;
+}
+
+.audio-list button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.audio-list button:hover {
+  background-color: #0056b3;
+}
+
+button.disabled {
+  background-color: grey;
+  cursor: not-allowed;
+}
