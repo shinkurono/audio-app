@@ -24,6 +24,8 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository:**
 
+Use the below command in git bash
+
     ```bash
     git clone https://github.com/shinkurono/audio-app.git
     cd audio-app
