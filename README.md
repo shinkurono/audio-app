@@ -145,10 +145,7 @@ Create a .env file in the backend directory and add the following environment va
         Request headers:
             Authorization: Bearer <token>
 
-    GET /api/playback/
-    : Stream an audio file for playback.
-        Request headers:
-            Authorization: Bearer <token>
+    GET /api/playback/: Stream an audio file for playback.
 
 ## Contributing
 
