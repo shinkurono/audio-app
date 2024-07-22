@@ -45,6 +45,9 @@ button {
   background-color: #007bff;
   color: white;
   cursor: pointer;
+  width: 105%;
+  padding: 10px;
+  margin: 10px 0;
   border: none;
 }
 
